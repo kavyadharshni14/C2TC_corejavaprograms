@@ -1,9 +1,11 @@
-package com.tnsif.dayone;
+ package com.tnsif.dayone;
 
 public class Identifiers {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		int age = 20;             
+        String studentName = "Abi"; 
+        System.out.println("Name: " + studentName + ", Age: " + age);
 
 	}
 
