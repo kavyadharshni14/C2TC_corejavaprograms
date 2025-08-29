@@ -1,0 +1,10 @@
+package com.tnsif.dayfifteen.userdefinedobjects;
+
+public class LambdaCollection {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
