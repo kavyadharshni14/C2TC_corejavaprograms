@@ -1,10 +1,6 @@
 package com.tnsif.daynineteen;
 
-public class Message {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
-
-}
+@FunctionalInterface
+public interface Message{  
+    public void greet(String name);    
+ } 
